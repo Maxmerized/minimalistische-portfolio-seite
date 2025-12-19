@@ -6,18 +6,23 @@ Eine minimalistische, elegante Portfolio-Website für Gustav Dressler.
 
 Diese Portfolio-Website präsentiert die Werke und Projekte von Gustav Dressler, einschließlich:
 
-- **Märchen** 
+**Märchen** 
 - Zwei veröffentlichte Bücher über Gier, Gerechtigkeit und Weisheit
-- 
-**Chroniken** - Historische Dokumentationen über Sitzenberg-Reidling
-- 
-**Schweizerhof** - Bio-Reitstall mit 70 Hektar pestizidfreier Fläche
-- 
-**MIËLO** - Partnerschaft mit dem österreichischen Honig-Projekt
-- 
-**Presse** - Medienberichte und Publikationen
-- 
-**CV** - Lebenslauf und beruflicher Werdegang
+  
+**Chroniken** 
+- Historische Dokumentationen über Sitzenberg-Reidling
+
+**Schweizerhof**
+- Bio-Reitstall mit 70 Hektar pestizidfreier Fläche
+  
+**MIËLO** 
+- Partnerschaft mit dem österreichischen Honig-Projekt
+  
+**Presse** 
+- Medienberichte und Publikationen
+
+**CV** 
+- Lebenslauf und beruflicher Werdegang
 
 
 ## Technologien
